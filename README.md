@@ -1,4 +1,4 @@
-# scrabble-ru
+# ru-scrabble
 
 Русский словарь для скрэббла (Эрудит, Балда): `scrabble_ru.txt`.
 
